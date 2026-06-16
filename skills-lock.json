@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "dca-backtest": {
+      "source": "/Users/bytedance/code/finance-research/skills",
+      "sourceType": "local",
+      "computedHash": "35c7ff164f1316a7221a57bbc0141eed9c211a5a8d9eb0b998352e537bebf8c6"
+    },
+    "finance-data": {
+      "source": "/Users/bytedance/code/finance-research/skills",
+      "sourceType": "local",
+      "computedHash": "b52be494f7575c63d050b8c440341ac66a4fa38662f38373562aa0acc7f61dda"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "5ea13a6d9f0d4bb694405d79acd00cadec0d21bb138c4dd10fcf3c500cb835c2"
+    }
+  }
+}
